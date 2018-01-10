@@ -1,0 +1,25 @@
+{
+  "name": "devextreme.bas",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "angular": "^1.6.8",
+    "body-parser": "~1.18.2",
+    "cldr-data": "^32.0.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "devextreme": "17.2.4",
+    "express": "~4.15.5",
+    "globalize": "^1.3.0",
+    "http-server": "^0.11.1",
+    "jade": "~1.11.0",
+    "jquery": "^3.2.1",
+    "knockout": "^3.4.2",
+    "morgan": "~1.9.0",
+    "serve-favicon": "~2.4.5",
+    "webpack": "^1.15.0"
+  }
+}
